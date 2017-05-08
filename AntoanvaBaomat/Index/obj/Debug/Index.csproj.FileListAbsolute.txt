@@ -1,0 +1,9 @@
+D:\1 TÀI LIỆU CNTT\PROJECTS VS2013\AntoanvaBaomat\Index\bin\Debug\Index.exe.config
+D:\1 TÀI LIỆU CNTT\PROJECTS VS2013\AntoanvaBaomat\Index\bin\Debug\Index.exe
+D:\1 TÀI LIỆU CNTT\PROJECTS VS2013\AntoanvaBaomat\Index\bin\Debug\Index.pdb
+D:\1 TÀI LIỆU CNTT\PROJECTS VS2013\AntoanvaBaomat\Index\obj\Debug\Index.csprojResolveAssemblyReference.cache
+D:\1 TÀI LIỆU CNTT\PROJECTS VS2013\AntoanvaBaomat\Index\obj\Debug\Index.Form1.resources
+D:\1 TÀI LIỆU CNTT\PROJECTS VS2013\AntoanvaBaomat\Index\obj\Debug\Index.Properties.Resources.resources
+D:\1 TÀI LIỆU CNTT\PROJECTS VS2013\AntoanvaBaomat\Index\obj\Debug\Index.csproj.GenerateResource.Cache
+D:\1 TÀI LIỆU CNTT\PROJECTS VS2013\AntoanvaBaomat\Index\obj\Debug\Index.exe
+D:\1 TÀI LIỆU CNTT\PROJECTS VS2013\AntoanvaBaomat\Index\obj\Debug\Index.pdb
